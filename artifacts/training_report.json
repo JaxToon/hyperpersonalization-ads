@@ -1,0 +1,13 @@
+{
+  "eval_month": "2016-05-28",
+  "map_at_7_holding_mask_only": 0.8974291069392027,
+  "num_boost_round_used": 226,
+  "train_rows": 1449591,
+  "num_classes": 24,
+  "class_weighting": "inverse-frequency, sqrt-dampened, capped",
+  "class_weight_cap": 50.0,
+  "class_weight_range": [
+    0.02,
+    17.947
+  ]
+}

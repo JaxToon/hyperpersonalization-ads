@@ -1,0 +1,10 @@
+{
+  "eval_month": "2016-05-28",
+  "n_customers": 93255,
+  "map_at_7_guardrail_constrained": 0.6215,
+  "baseline_blanket_conversion_rate": 0.00618,
+  "personalized_conversion_rate": 0.02007,
+  "relative_lift_pct": 225.0,
+  "baseline_product": "Rekening Giro",
+  "note": "offline proxy (did the customer adopt the advertised product) \u2014 not a real online A/B result"
+}

@@ -1,0 +1,7 @@
+{
+  "eval_month": "2016-05-28",
+  "map_at_7_holding_mask_only": 0.8863148664343786,
+  "num_boost_round_used": 43,
+  "train_rows": 144631,
+  "num_classes": 24
+}
